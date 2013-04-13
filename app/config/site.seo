@@ -1,0 +1,16 @@
+index:
+    title: Criação de sites em Wordpress, Magento e Rails - Xdevs
+    description: Criação de sites em Wordpress, lojas virtuais em Magento e aplicativos web com Ruby on Rails
+    keywords: Criação de sites, Sites em Wordpress, Loja Virtual Magento, Sites com Ruby on Rails
+magento:
+    title: About | Site
+    description: my About description goes here.
+    keywords: keyword4, keyword5, keyword6
+wordpress:
+    title: About | Site
+    description: my About description goes here.
+    keywords: keyword4, keyword5, keyword6
+rails:
+    title: About | Site
+    description: my About description goes here.
+    keywords: keyword4, keyword5, keyword6
